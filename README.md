@@ -1,9 +1,10 @@
 # Text Editor Starter Code
-Link to Heroku app - https://pwa-text-editor-owens-5c07bb82e1fa.herokuapp.com/
 # User Story
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
+
+Link to Heroku app - https://pwa-text-editor-owens-5c07bb82e1fa.herokuapp.com/
 
 # User Acceptance Criteria
 GIVEN a text editor web application
